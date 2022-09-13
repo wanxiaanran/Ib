@@ -583,7 +583,7 @@ var utakata = utakata || (utakata = {});
     };
 
     StorageManager.localFilePathCommonSave = function(){ return this.localFileDirectoryPath() + 'common.rpgsave'; };
-    StorageManager.webStorageKeyCommonSave = function(){ return 'RPG Common'; };
+    StorageManager.webStorageKeyCommonSave = function(){ return 'Ib RPG Common'; };
 
 
     //-----------------------------------------------------------------------------
